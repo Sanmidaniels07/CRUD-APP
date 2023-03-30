@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Tommy",
+      "address": "Japan",
+      "email": "tom@gmail.com",
+      "contact": "8367666367",
+      "id": 2
+    },
+    {
+      "name": "Jane",
+      "address": "Australia",
+      "email": "jane@gmail.com",
+      "contact": "87367666367",
+      "id": 3
+    },
+    {
+      "name": "Mike",
+      "email": "Mike@gmail.com",
+      "contact": "445005",
+      "address": "Canada",
+      "id": 5
+    },
+    {
+      "name": "Daniel",
+      "email": "dan@gmail.com",
+      "contact": "45667",
+      "address": "London",
+      "id": 6
+    }
+  ]
+}
